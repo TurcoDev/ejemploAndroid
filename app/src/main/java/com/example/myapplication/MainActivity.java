@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 //        sistema de numeracion decimal 0 --> 9 (10 digitos)
 //        sistema de numeracion hexadecimal 0 --> 9, A,B,C,D,E,F (16 digitos)
 //        helloTextView.setTextColor(0xFF00f4b6);
-        helloTextView.setTextColor(getResources().getColor(R.color.purple_700));
+        helloTextView.setTextColor(getResources().getColor(R.color.myColor));
         helloTextView.setTextSize(36);
     }
 }
